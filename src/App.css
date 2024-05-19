@@ -1,0 +1,21 @@
+.notes-area{
+    height: 75vh;
+    width: 75vw;
+    border: 3px solid #000;
+    overflow: auto;
+    resize: both;
+  }
+
+  .export{
+    position: relative;
+    margin: 10px;
+
+  }
+
+  .export-button{
+    background-color:rgb(232, 241, 129);
+    border-radius: 15px;
+  }
+
+
+ 
