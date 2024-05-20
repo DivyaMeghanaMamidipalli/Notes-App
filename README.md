@@ -31,3 +31,7 @@ dragged text should be appended to the existing text within that structure
 
 - Used Redux to manage the state of the application.
 - Saved the notes to the local storage so that the notes persist even after the page is refreshed.
+
+## Demo 
+- Link to Live Demo : https://664ae779a4f26b573ebcf5e1--roaring-brigadeiros-289e6a.netlify.app/
+  
